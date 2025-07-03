@@ -1,4 +1,4 @@
-﻿#,Date-Time (PDT),"Temperature (W-DO 22225580), °C","Measured DO (W-DO 22225580), mg/L","Salinity-Adjusted DO (W-DO 22225580), mg/L"
+﻿#,Date-Time (PDT),Temperature,DO,Salinity-Adjusted DO 
 1,5/21/2025 9:05,19.7,9.14,7.43
 2,5/21/2025 10:05,18.48,9.49,7.7
 3,5/21/2025 11:05,16.99,9.63,7.79
